@@ -1,1 +1,1 @@
-# kasirapp
+# kasirapp/aldi
